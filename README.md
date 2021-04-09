@@ -6,7 +6,7 @@ LilyLive2D：由绯春研与IUtapro组建的项目，用于分发当前可公开
 
 | 项目名称| 画师| 2D师| 软件支持 |
 | ---- | ---- | ---- | ---- |
-| 魔梨沙莉莉 | 魔梨沙 | Utara | prprlive |
+| 魔梨莎莉莉 | 魔法梨子莎二代 | Utara | prprlive、Facerig |
 | 奈娜莉莉 | 吃蟹滴奈娜 | Utara | prprlive |
 | 莉莉 |  |  |  |
 ****
