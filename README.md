@@ -6,9 +6,9 @@ LilyLive2D：由绯春研与IUtapro组建的项目，用于发布当前可公开
 
 | 项目名称| 画师| 2D师| 软件支持 |
 | ---- | ---- | ---- | ---- |
-| 魔梨莎莉莉Ver0.1.00 | 魔法梨子莎二代 | Utara | prprlive、Facerig |
-| 奈娜莉莉Ver0.1.00 | 吃蟹滴奈娜 | Utara | prprlive |
-| 莉莉Ver0.1.00 | 待定 | Utara | prprlive |
+| Molishalilypro3-Ver0.1.00 | 魔法梨子莎二代 | Utara | prprlive、Facerig |
+| NainaLily-Ver0.1.00 | 吃蟹滴奈娜 | Utara | prprlive |
+| Lily-Ver0.1.00 | 待定 | Utara | prprlive |
 ****
 ## 允许使用范围 ##
 * 自娱自乐变成莉莉
@@ -20,7 +20,7 @@ LilyLive2D：由绯春研与IUtapro组建的项目，用于发布当前可公开
 * 不能用于印制任何实体作品
 # 版本更新记录 有需要请更新下载
 *
-* 2021.6.10更新 [魔梨沙莉莉] 的肢体协调
+* 2021.4.21更新 [Molishalilypro3-Ver0.1.00](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/Molishalilypro3-Ver0.1.00.zip) 的初版测试版配置
 * 2021.5.10更新模型 [奈娜莉莉Ver0.1.00] 
 
 ****
