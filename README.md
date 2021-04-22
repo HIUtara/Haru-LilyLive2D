@@ -6,7 +6,7 @@ LilyLive2D：由绯春研与IUtapro组建的项目，用于发布当前可公开
 
 | 项目名称| 画师| 2D师| 软件支持 |
 | ---- | ---- | ---- | ---- |
-| Molishalilypro3-Ver0.1.00 | 魔法梨子莎二代 | Utara | prprlive、Facerig |
+| MarisaMk2Lily-Ver0.1.00 | 魔法梨子莎二代 | Utara | prprlive、Facerig |
 | NainaLily-Ver0.1.00 | 吃蟹滴奈娜 | Utara | prprlive |
 | Lily-Ver0.1.00 | 待定 | Utara | prprlive |
 ****
