@@ -20,7 +20,7 @@ LilyLive2D：由绯春研与IUtapro组建的项目，用于发布当前可公开
 * 不能用于印制任何实体作品
 # 版本更新记录 有需要请更新下载
 *
-* 2021.4.21更新 [Molishalilypro3-Ver0.1.00](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/Molishalilypro3-Ver0.1.00.zip) 的初版测试版配置
+* 2021.4.21更新 [MarisaMk2Lily-Ver0.1.00](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/Molishalilypro3-Ver0.1.00.zip) 的初版测试版配置
 * 2021.5.10更新模型 [奈娜莉莉Ver0.1.00] 
 
 ****
