@@ -43,4 +43,4 @@ ACfun出品，本体免费UI简单中文自带设置易用占用率较低，直�
 ****
 # 后记
 ### 如果觉得live2d做的不错可以兹磁本社团其他作品，或者与我合作制作更多live2d
-![gif](图片)
+[gif](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/Pic/ThxYou.gif)
