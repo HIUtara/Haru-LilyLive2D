@@ -7,7 +7,7 @@ LilyLive2D：由绯春研与IUtapro组建的项目，用于发布当前可公开
 | 项目名称| 画师| 2D师| 软件支持 |
 | ---- | ---- | ---- | ---- |
 | MarisaMk2Lily-Ver0.1.00 | 魔法梨子莎二代 | Utara | prprlive、Facerig |
-| NaanaLily-Ver0.2.14 | 奈娜 | Utara | prprlive |
+| NaanaLily-Ver0.3.20 | 奈娜 | Utara | prprlive |
 | Lily-Ver0.1.00 | 待定 | Utara | prprlive |
 ****
 ## 允许使用范围 ##
@@ -19,7 +19,8 @@ LilyLive2D：由绯春研与IUtapro组建的项目，用于发布当前可公开
 * 不能用于人物出道
 * 不能用于印制任何实体作品
 # 版本更新记录 有需要请更新下载
-* 2021.5.13更新模型 [奈娜莉莉Ver0.2.24](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/NaanaLily-Ver0.2.14.zip) 的初版测试版配置,Prpr版
+* 2021.5.20更新模型 [奈娜莉莉Ver0.3.20](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/NaanaLily-Ver0.3.20.zip) 的修改版，更改了身体反馈跟脸部与眉毛的变化,prpr版
+* 2021.5.13更新模型 [奈娜莉莉Ver0.2.14](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/NaanaLily-Ver0.2.14.zip) 的初版测试版配置,prpr版
 * 2021.4.21更新 [MarisaMk2Lily-Ver0.1.00](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/Molishalilypro3-Ver0.1.00.zip) 的初版测试版配置
 * 2021.3.27创建项目
 
@@ -33,7 +34,7 @@ Steam上架，需要付费购买，文件构成不一样不能通用
 ACfun出品，本体免费UI简单中文自带设置易用占用率较低，直接点击导入模型就可使用，支持obs透明推流
 
 # 一些常见问题的解决方式
-*模型密码为"lilysuki"*
+*模型密码无特殊说明为"lilysuki"*
 * 见下载文件内的《解决问题》文本
 * 
 
