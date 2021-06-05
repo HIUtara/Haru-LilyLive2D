@@ -8,7 +8,8 @@ LilyLive2D：由绯春研与IUtapro组建的项目，用于发布当前可公开
 | ---- | ---- | ---- | ---- |
 | [MarisaMk2Lily-Ver0.1.00](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/Molishalilypro3-Ver0.1.00.zip) | 魔法梨子莎二代 | Utara | prprlive、Facerig |
 | [NaanaLily-Ver0.3.20](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/NaanaLily-Ver0.3.20.zip) | 奈娜 | Utara | prprlive |
-| Lily-Ver0.1.00 | 待定 | Utara | prprlive |
+| ArunanokoLily-Ver0.1.00 | あめらる | Utara | prprlive |
+| Lily-Ver0.1.00 | 未定 | Utara | prprlive |
 ****
 ## 允许使用范围 ##
 * 自娱自乐变成莉莉
@@ -19,6 +20,7 @@ LilyLive2D：由绯春研与IUtapro组建的项目，用于发布当前可公开
 * 不能用于人物出道
 * 不能用于印制任何实体作品
 # 版本更新记录 有需要请更新下载
+* 2021.6.5 更新模型 ArunanokoLily-Ver0.1.00 半身模型，暂未上传
 * 2021.5.20更新模型 [NaanaLily-Ver0.3.20](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/NaanaLily-Ver0.3.20.zip) 的修改版，更改了身体反馈跟脸部与眉毛的变化,prpr版
 * 2021.5.13更新模型 [NaanaLily-Ver0.2.1](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/NaanaLily-Ver0.2.14.zip) 的初版测试版配置,prpr版
 * 2021.4.21更新 [MarisaMk2Lily-Ver0.1.00](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/Molishalilypro3-Ver0.1.00.zip) 的初版测试版配置
