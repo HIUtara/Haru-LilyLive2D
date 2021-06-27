@@ -21,6 +21,7 @@ LilyLive2D：由绯春研与IUtapro组建的项目，用于发布当前可公开
 * 不能用于人物出道
 * 不能用于印制任何实体作品
 # 版本更新记录 有需要请更新下载
+* 2021.6.27更新模型 SquidLily-Ver0.0.00 模型制作档案建立，制作中...(文件夹建好了)
 * 2021.6.5 更新模型 ArunanokoLily-Ver0.1.00 半身模型，暂未上传
 * 2021.5.20更新模型 [NaanaLily-Ver0.3.20](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/NaanaLily-Ver0.3.20.zip) 的修改版，更改了身体反馈跟脸部与眉毛的变化,prpr版
 * 2021.5.13更新模型 [NaanaLily-Ver0.2.1](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/NaanaLily-Ver0.2.14.zip) 的初版测试版配置,prpr版
