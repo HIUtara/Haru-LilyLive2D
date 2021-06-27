@@ -9,6 +9,7 @@ LilyLive2D：由绯春研与IUtapro组建的项目，用于发布当前可公开
 | [MarisaMk2Lily-Ver0.1.00](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/Molishalilypro3-Ver0.1.00.zip) | 魔法梨子莎二代 | Utara | prprlive、Facerig |
 | [NaanaLily-Ver0.3.20](https://github.com/HIUtara/Haru-LilyLive2D/blob/main/NaanaLily-Ver0.3.20.zip) | 奈娜 | Utara | prprlive |
 | ArunanokoLily-Ver0.1.00 | あめらる | Utara | prprlive |
+| SquidLily-Ver0.0.00 | 乌贼贼污 | Utara | prprlive |
 | Lily-Ver0.1.00 | 未定 | Utara | prprlive |
 ****
 ## 允许使用范围 ##
